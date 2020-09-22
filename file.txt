@@ -1,6 +1,1 @@
-Change in file.
-Astea sunt modificarile facute de mine in acest fisier
-Comanda este H, nu Y.
-Comanda este de fapt CH?
-Nuuu. Comanda este I, nimic de mai sus.
-Confirm ca I este comanda!!!
+New changes in this file would override previous ones.
